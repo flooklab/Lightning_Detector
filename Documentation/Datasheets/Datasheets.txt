@@ -1,0 +1,23 @@
+Note: URLs last checked on 07.03.2024
+
+Arduino Nano 33 BLE (Rev1) / NINA-B306 / nRF52840:
+
+https://docs.arduino.cc/resources/schematics/ABX00030-schematics.pdf
+https://docs.arduino.cc/resources/datasheets/ABX00030-datasheet.pdf
+https://www.u-blox.com/sites/default/files/NINA-B3_DataSheet_UBX-17052099.pdf
+https://docs-be.nordicsemi.com/bundle/ps_nrf52840/attach/nRF52840_PS_v1.9.pdf
+
+SparkFun Lightning Detector AS3935 / AMS/ScioSense AS3935:
+
+https://cdn.sparkfun.com/assets/2/0/7/d/6/Qwiic_AS3935_Lightning_Detector-v20.pdf
+https://cdn.sparkfun.com/assets/learn_tutorials/9/2/1/AS3935_Datasheet_EN_v2.pdf
+
+SparkFun 16 I/O Expander Breakout SX1509 / Semtech SX1509:
+
+https://cdn.sparkfun.com/datasheets/BreakoutBoards/SparkFun-SX1509-Breakout-v20.pdf
+https://cdn.sparkfun.com/datasheets/BreakoutBoards/sx1509.pdf
+
+Waveshare e-Paper Display (V1 & V2):
+
+https://www.waveshare.com/w/upload/7/77/1.54inch_e-Paper_Datasheet.pdf
+https://www.waveshare.com/w/upload/e/e5/1.54inch_e-paper_V2_Datasheet.pdf

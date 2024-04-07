@@ -1,0 +1,7 @@
+#HTML documentation
+Documentation/Firmware/doc
+
+#KiCad local cache files
+Hardware/KiCad/**/*.bak
+Hardware/KiCad/**/*.kicad_prl
+Hardware/KiCad/**/fp-info-cache

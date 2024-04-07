@@ -1,0 +1,37 @@
+Lightning Detector, an experimental open hardware project for early notification about approaching thunderstorm activity.
+Copyright (C) 2024 M. Frohne
+
+Lightning Detector is licensed under the "CERN Open Hardware Licence, Version 2 - Weakly Reciprocal" or (at your option) any later version.
+(please refer to the file 'LICENSE.OHL-W')
+
+This does NOT apply to the firmware code that is found in the 'Firmware/' directory, which is instead
+licensed under the "GNU General Public License, Version 3" or (at your option) any later version.
+(please refer to the file 'LICENSE.GPL')
+
+Note also that the firmware files in the directory 'Firmware/lightning_detector/fonts/' embed a subset of the Terminus Font
+and are hence additionally licensed under the "SIL Open Font License, Version 1.1", with Reserved Font Name "Terminus Font".
+(please refer to the file 'LICENSE.OFL')
+
+
+###########################################################################################################################################
+
+! ! ! ! ! WARNING ! ! ! ! !
+
+Do NOT actually use Lightning Detector as a serious device to warn you about lightnings or thunderstorms!
+It might be that lightnings will NOT be detected and that you will NOT be notified about present or
+approaching thunderstorms. You have to assume that the device is inherently UNSAFE and does NOT
+work properly. There is NO guarantee for the fitness for any particular purpose whatsoever.
+UNDER NO CIRCUMSTANCES should you trust the information provided (or not provided) by the device.
+Lightning Detector might NOT be tested thoroughly enough and is NOT even intended to be a reliable detector device.
+Note that being in a thunderstorm (especially without sufficient protection around you (such as a building))
+is a very dangerous situation as you might suddenly be struck by lightning, which is potentially LIFE-THREATENING.
+Generally, you should always try to combine multiple sources of information to assess the current risk of thunderstorms
+and lightning strikes. Check the weather forecast and watch the sky. Dark clouds can be an early indicator.
+If in doubt (or when there is/are audible thunder or visible lightnings at the latest), please seek shelter!
+
+! ! ! ! ! WARNING ! ! ! ! !
+
+###########################################################################################################################################
+
+
+For more information please see the file 'README.md'.

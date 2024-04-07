@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SparkFun_AS335_Module")(type "KiCad")(uri "${KIPRJMOD}/SparkFun_AS335_Module.kicad_sym")(options "")(descr ""))
+)
