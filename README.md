@@ -112,7 +112,23 @@ is going to be used, you can proceed as follows:
 
 The final assembly may look similar to this:  
 
-![Example Setup](Documentation/example_setup.jpg)
+![Example setup](Documentation/example_setup.jpg)
+
+#### Case
+
+In [`Hardware/Case/`](Hardware/Case/) there are CAD files for a 3D-printable case that can be
+used if all above-mentioned additional periphery modules are attached to the back of the PCB
+in a particular layout using the mounting holes and appropriate spacers, as can be seen below:  
+
+<p align="center"><table><tr>
+<td width="33%"><a href="Documentation/example_setup_case_1.jpg" alt="Example setup with case (1/3)"><img src="Documentation/example_setup_case_1.jpg"></a></td>
+<td width="33%"><a href="Documentation/example_setup_case_2.jpg" alt="Example setup with case (2/3)"><img src="Documentation/example_setup_case_2.jpg"></a></td>
+<td width="33%"><a href="Documentation/example_setup_case_3.jpg" alt="Example setup with case (3/3)"><img src="Documentation/example_setup_case_3.jpg"></a></td>
+</tr></table></p>
+
+Note that in this configuration the `AS3935` is very close to the rest of the electronics,
+which had caused frequent false positive lightning interrupts in my case. This was successfully
+suppressed by inserting an additional sheet of copper foil between the PCB and the attached periphery.
 
 ## Firmware Building
 
