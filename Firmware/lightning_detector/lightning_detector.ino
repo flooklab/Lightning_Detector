@@ -72,7 +72,7 @@ constexpr size_t wakeTimerIntervalSecs = 120;   //Seconds of inactivity before f
 
 constexpr size_t vddMeasIntervalMins = 30;      //Scheduled interval between VDD measurements in minutes
 constexpr size_t vddMeasSmallIntervalMins = 10; //Smaller VDD measurement interval in minutes for high lightning activity
-constexpr float vddMeasLightRateThr = 10.;      //Number of lightnings per minute to switch to smaller measurement interval
+constexpr float vddMeasLightRateThr = 2.;       //Number of lightnings per minute to switch to smaller measurement interval
 
 constexpr size_t lightRateAvrgMins = 5;     //Minimum ('minimum' due to sleep) averaging time to determine current lightning activity/rate
 
