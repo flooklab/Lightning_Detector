@@ -128,7 +128,7 @@ in a particular layout using the mounting holes and appropriate spacers, as can 
 
 Note that in this configuration the `AS3935` is very close to the rest of the electronics,
 which had caused frequent false positive lightning interrupts in my case. This was successfully
-suppressed by inserting an additional sheet of copper foil between the PCB and the attached periphery.
+suppressed by inserting a grounded sheet of copper foil between the PCB and the attached periphery.
 
 ## Firmware Building
 
@@ -342,6 +342,9 @@ the second short buzzer beep is played. There is a first short buzzer beep follo
 - Sometimes the Arduino appears to take rather long to wake up from sleep mode. When you wake it up by pressing
   one of the push buttons, this _can_ result in it getting stuck due to the debouncing (recognizable by the
   _green_ RGB LED being continuously on). You just need to press the button again to resolve this.
+- Apparently, as already mentioned in the [Case](#user-content-case) section, the `AS3935`
+  raises false positive lightning interrupts when it gets too close to the main PCB.
+  Hence you might need to add additional shielding, depending on your setup.
 
 ## License Information
 
