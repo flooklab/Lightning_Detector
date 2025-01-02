@@ -348,7 +348,7 @@ the second short buzzer beep is played. There is a first short buzzer beep follo
 
 ## License Information
 
-Copyright (C) 2024 M. Frohne  
+Copyright (C) 2024–2025 M. Frohne  
 
 Lightning Detector is licensed under the "*CERN Open Hardware Licence, Version 2 - Weakly Reciprocal*" or (at your option) any later version.  
 (please refer to the file [`LICENSE.OHL-W`](LICENSE.OHL-W))  

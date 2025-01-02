@@ -6,10 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Lightning Detector")
-		(date "2024-03-07")
+		(date "2025-01-02")
 		(rev "v0.5.1")
 		(comment 1 "Licensed under CERN-OHL-W version 2, or (at your option) any later version")
-		(comment 2 "Copyright (C) 2024 M. Frohne")
+		(comment 2 "Copyright (C) 2024–2025 M. Frohne")
 	)
 	(lib_symbols
 		(symbol "Device:Battery_Cell"

@@ -5,7 +5,7 @@
 //  hardware project for early notification about approaching thunderstorm activity.
 //  This file was derived from the ArduinoGraphics library.
 //  Copyright (C) 2019 Arduino SA
-//  Copyright (C) 2024 M. Frohne
+//  Copyright (C) 2024–2025 M. Frohne
 //
 //  Lightning Detector's firmware is free software: you can redistribute it
 //  and/or modify it under the terms of the GNU General Public License

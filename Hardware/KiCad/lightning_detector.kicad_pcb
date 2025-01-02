@@ -23138,7 +23138,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Copyright (C) 2024 M. Frohne"
+	(gr_text "Copyright (C) 2024-2025 M. Frohne"
 		(at 97.79 85.725 90)
 		(layer "F.SilkS")
 		(uuid "98069bb2-90d3-41c7-9d6f-4fb240d08ad2")
@@ -23214,7 +23214,7 @@
 			(justify right bottom)
 		)
 	)
-	(gr_text "Lightning Detector v0.5.1\nCopyright (C) 2024 M. Frohne\nLicensed under CERN-OHL-W version 2, or (at your option) any later version"
+	(gr_text "Lightning Detector v0.5.1\nCopyright (C) 2024-2025 M. Frohne\nLicensed under CERN-OHL-W version 2, or (at your option) any later version"
 		(at 35.56 106.68 0)
 		(layer "Cmts.User")
 		(uuid "67600daf-2767-4c68-9487-bb0399b5bc8d")
@@ -23227,7 +23227,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Lightning Detector v0.5.1\nCopyright (C) 2024 M. Frohne\nLicensed under CERN-OHL-W version 2, or (at your option) any later version"
+	(gr_text "Lightning Detector v0.5.1\nCopyright (C) 2024-2025 M. Frohne\nLicensed under CERN-OHL-W version 2, or (at your option) any later version"
 		(at 35.56 106.68 0)
 		(layer "F.Fab")
 		(uuid "48ae97e4-cdda-484c-928d-7e10b331d213")
